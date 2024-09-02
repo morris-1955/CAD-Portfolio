@@ -1,2 +1,2 @@
-# CAD-Portfolio
-Pictures and descriptions of CAD projects to demonstrate experience
+# Engineering-Portfolio
+Pictures and descriptions of CAD/engineering projects to demonstrate experience
